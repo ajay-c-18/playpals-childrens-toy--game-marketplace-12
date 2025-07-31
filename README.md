@@ -1,1 +1,3 @@
-# playpals-childrens-toy--game-marketplace-12
+# Project Repository
+
+This is the initial README file for the project.
